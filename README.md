@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f22/jpa02-pikarap1234
 
-On Heroku: https://jpa02-pikarap1234.herokuapp.com/
+On Heroku: https://jpa02-edn.herokuapp.com/
 
 # About this repo
 
